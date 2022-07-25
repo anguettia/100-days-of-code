@@ -1,13 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: July 24, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I learned how to implement complex webpage animation using Anime.JS
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I enjoyed discovering this library. I browsed a number of projects that showed the impact of a well-designed animation. I'm planning on spending the next few sessions exploring this library in more depth.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
