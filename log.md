@@ -6,6 +6,10 @@
 
 **Thoughts:** I enjoyed discovering this library. I browsed a number of projects that showed the impact of a well-designed animation. I'm planning on spending the next few sessions exploring this library in more depth.
 
+### Day 2: July 26, 2022
+
+**Today's Progress**: Practiced building a dynamic sliding ruler using Anime.JS
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
