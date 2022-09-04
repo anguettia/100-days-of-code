@@ -1,14 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: September 3, 2022
+
+**Today's Progress**: Picked up a tutorial on Go and learned the foundations of the language. My first impressions is that it borrows the simplicity of scripting languagues such as Python while keeping the traditional feel of C-languages.
+
+### Day 2: July 26, 2022
+
+**Today's Progress**: Practiced building a dynamic sliding ruler using Anime.JS
+
 ### Day 1: July 24, 2022
 
 **Today's Progress**: I learned how to implement complex webpage animation using Anime.JS
 
 **Thoughts:** I enjoyed discovering this library. I browsed a number of projects that showed the impact of a well-designed animation. I'm planning on spending the next few sessions exploring this library in more depth.
-
-### Day 2: July 26, 2022
-
-**Today's Progress**: Practiced building a dynamic sliding ruler using Anime.JS
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
