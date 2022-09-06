@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 3: September 6, 2022
+
+**Today's Progress**: Learning more about Go. I found it interesting that slices are defined implicitly whereas maps are explicit. I wonder if these data types evolved at different times in the language's history?🤔
+
 ### Day 3: September 3, 2022
 
 **Today's Progress**: Picked up a tutorial on Go and learned the foundations of the language. My first impressions is that it borrows the simplicity of scripting languagues such as Python while keeping the traditional feel of C-languages.
