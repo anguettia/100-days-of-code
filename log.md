@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 4: September 8, 2022
+
+**Today's Progress**: Did a refresher on React.js. It was a good opportunity to revisit the fundamentals and appreciate the capabilities of the framework.
+
 ### Day 3: September 6, 2022
 
 **Today's Progress**: Learning more about Go. I found it interesting that slices are defined implicitly whereas maps are explicit. I wonder if these data types evolved at different times in the language's history?🤔
