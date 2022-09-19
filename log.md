@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 5: September 18, 2022
+
+**Today's Progress**: Built a game of tic-tac-toe using React.js. It was much simpler (and more fun!) than I expected.
+
 ### Day 4: September 8, 2022
 
 **Today's Progress**: Did a refresher on React.js. It was a good opportunity to revisit the fundamentals and appreciate the capabilities of the framework.
