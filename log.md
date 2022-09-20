@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 6: September 20, 2022
+
+**Today's Progress**: Built a game of whac-a-mole using React.js. Those creatures are tough to catch!
+
 ### Day 5: September 18, 2022
 
 **Today's Progress**: Built a game of tic-tac-toe using React.js. It was much simpler (and more fun!) than I expected.
